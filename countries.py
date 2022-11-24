@@ -1,4 +1,9 @@
+# countries.py
+# By: Aidan
+# Date: 24/11/2022
+
 countries = ["Ireland", "Portugal", "UK", "France", "Germany"]
+
 
 class User():
 
